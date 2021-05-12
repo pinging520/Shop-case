@@ -140,6 +140,7 @@
     <Content Include="Web\ProductDetails.aspx" />
     <Content Include="Web\ShoppingCart.aspx" />
     <Content Include="Web\Sign Up.aspx" />
+    <Content Include="Web\test2.aspx" />
     <Content Include="Web\TestPage.aspx" />
     <Content Include="Web\UserPage.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -294,6 +295,13 @@
     </Compile>
     <Compile Include="Web\Sign Up.aspx.designer.cs">
       <DependentUpon>Sign Up.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\test2.aspx.cs">
+      <DependentUpon>test2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\test2.aspx.designer.cs">
+      <DependentUpon>test2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Web\TestPage.aspx.cs">
       <DependentUpon>TestPage.aspx</DependentUpon>

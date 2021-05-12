@@ -14,7 +14,7 @@
             <div class="col-sm-10">
                
             <asp:TextBox ID="TextBox1" runat="server" class="form-control" placeholder="輸入用戶名稱" AutoPostBack="True" OnTextChanged="Text1_Textchang"></asp:TextBox>
-            
+             
                     </div>
         </div>
          <div class="form-group">    
