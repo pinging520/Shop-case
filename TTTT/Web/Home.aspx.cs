@@ -29,8 +29,6 @@ namespace TTTT.Web
                 query = query.Where(p => (p.ProductName.ToString()).Contains(categoryId));
             }
 
-
-
             return query;
 
         }
@@ -45,7 +43,6 @@ namespace TTTT.Web
             }
             else
             {
-
                 return "熱門商品介紹.";
             }
 
