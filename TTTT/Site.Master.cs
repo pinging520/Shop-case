@@ -29,7 +29,7 @@ namespace TTTT
             return query;
         }
 
-        public string LoginStr()//注意这里必须要有返回值，否则将会发生运行时错误
+        public string LoginStr()//要有返回值
         {
             if (Session["IDnumber"] != null)
             {
@@ -42,7 +42,7 @@ namespace TTTT
 
                 
         }
-        public string SignUp()//注意这里必须要有返回值，否则将会发生运行时错误
+        public string SignUp()//要有返回值
         {
             if (Session["IDnumber"] != null)
             {
