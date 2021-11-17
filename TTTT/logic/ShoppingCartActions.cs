@@ -24,7 +24,7 @@ namespace TTTT.logic
 
             if (cartItem == null)
             {
-                // 如果沒有購物車，新增                 
+                // 如果沒有購物車，新增                
                 cartItem = new CartItem
                 {
                     ItemId = Guid.NewGuid().ToString(),
