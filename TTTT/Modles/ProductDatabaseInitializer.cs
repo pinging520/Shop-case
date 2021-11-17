@@ -23,27 +23,27 @@ namespace TTTT.Modles
                 new Category
                 {
                     CategoryID = 1,
-                    CategoryName = "Cars"
+                    CategoryName = "A"
                 },
                 new Category
                 {
                     CategoryID = 2,
-                    CategoryName = "Planes"
+                    CategoryName = "B"
                 },
                 new Category
                 {
                     CategoryID = 3,
-                    CategoryName = "Trucks"
+                    CategoryName = "C"
                 },
                 new Category
                 {
                     CategoryID = 4,
-                    CategoryName = "Boats"
+                    CategoryName = "D"
                 },
                 new Category
                 {
                     CategoryID = 5,
-                    CategoryName = "Rockets"
+                    CategoryName = "E"
                 },
             };
 
